@@ -1,0 +1,8 @@
+baseURL = 'https://delphisharp.github.io/'
+languageCode = 'en-zh'
+title = 'My New Hugo Site'
+theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
